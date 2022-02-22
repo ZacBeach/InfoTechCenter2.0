@@ -12,6 +12,7 @@ import random
 
 print(Fore.GREEN + "Welcome to Hornets InfoTechCenter")
 sleep(1)
+
 print("\nHornet's Operating System Booting up\n")
 sleep(1)
 
